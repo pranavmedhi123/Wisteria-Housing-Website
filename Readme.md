@@ -1,4 +1,14 @@
-Readme File 
+## Wisteria Housing Website
+
+This website was a part of the mini projects that were undertaken in the course of Web Database Management. 
+This final phase of the project brought about the following changes:
+- Migrated a housing website from PHP to Laravel Framework(developed from scratch), Upgraded the website visually .
+- Improved security and implemented user email verification through randomly generated OTP.
+- Built and integrated an interactive Chat application in the framework, using NodeJS, socket.io, moment.js.
+
+
+
+
 Teammates:
 1)Medhi , Pranav Naresh (Student ID:1001756326)
 2)Uppuluri, Sreekar Sai(Student ID:1001828077)
