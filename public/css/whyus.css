@@ -1,0 +1,94 @@
+/*Student Name:  Medhi, Pranav Student ID:1001756326;
+Student Name: Uppuluri, Sai Sreekar Student ID:1001828077;
+Student Name: Podili, Sai Sravanthi Student ID:1001878747;*/
+
+/* font-family: Garamond, 'Akaya Telivigala', cursive;
+colors : #F6C90E, #ffffff, #06224A, #000000, whitesmoke*/
+
+.about-section {
+    margin: 0;
+    padding: 100px 25px;
+    text-align: center;
+    background-color: #06224A;
+    color: #fff;
+    background-size: cover;
+
+}
+body{
+  background-color:whitesmoke;
+}
+
+*{
+    box-sizing:border-box;
+  }
+
+  .container {
+    padding: 64px;
+  }
+
+  .column-60 {
+    float: left;
+    width: 66.66666%;
+    padding: 20px;
+
+  }
+.text-css{
+  margin-top: 5%;
+
+}
+   .column-50 {
+    float: left;
+    width: 50%;
+    padding: 20px;
+
+  }
+
+  .column-40 {
+    float: left;
+    width: 33.33333%;
+    padding: 20px;
+    margin-top: 5%;
+
+  }
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+ .container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: black;
+}
+  .xlarge-font {
+    font-size: 64px
+  }
+    img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both
+  }
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+
